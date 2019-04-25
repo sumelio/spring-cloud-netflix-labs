@@ -3,10 +3,10 @@
 spring:
   profiles: default
 server:
-  port: 8010  
+  port: 8011,8012,8013
 eureka:
   instance:
-    hostname: eurekahost 
+    hostname: eureka-primary,eureka-secondary,eureka-tertiary
   client:
     registerWithEureka: false
     fetchRegistry: false

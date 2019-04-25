@@ -1,3 +1,11 @@
 spring:
   application:
    name: lab-4-verb
+  cloud:
+   config:
+    uri: http://localhost:8001
+  profiles:
+   active: verb
+
+server:
+  port: ${PORT:${SERVER_PORT:0}}
