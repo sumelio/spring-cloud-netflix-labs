@@ -5,8 +5,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../eureka-server/pom.xml" />
-        <option value="$PROJECT_DIR$/../../lab-6/sentence-server/pom.xml" />
-        <option value="$PROJECT_DIR$/../../lab-6/word-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../../lab-7/word-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../../lab-7/sentence-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../../lab-7/sentence-server-solution-reactive/pom.xml" />
       </list>
     </option>
   </component>
